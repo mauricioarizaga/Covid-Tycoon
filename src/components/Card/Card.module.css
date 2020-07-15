@@ -1,0 +1,19 @@
+.card {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.h4 {
+    text-transform: uppercase;
+    background-color: #343A40;
+    color: white;
+    
+}
+
+.botones {
+    display: flex;
+    justify-content: space-evenly;
+}

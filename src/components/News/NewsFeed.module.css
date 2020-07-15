@@ -1,0 +1,13 @@
+.news{
+    height: 600px;
+    padding: 20px;
+    overflow: hidden;
+    flex-direction: column-reverse;
+}
+
+.invertir{
+   
+    display: flex;
+    flex-direction: column-reverse;
+}
+
